@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988476843189",
+    "project_id": "conectandofirebase-4b21f",
+    "storage_bucket": "conectandofirebase-4b21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988476843189:android:2ad93927bf03b76f87cafc",
+        "android_client_info": {
+          "package_name": "com.example.firebasenoticia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988476843189-26mr8e4190qhidu6hct9e8gbqp79g32l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9iF8S51P4NinB8tAmVKD_CVvfWG7-_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988476843189-26mr8e4190qhidu6hct9e8gbqp79g32l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
